@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.AssemblyInfo.cs
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Abdul-Wareez\PersonalJournal\GPT\obj\Debug\net7.0\GPT.RazorAssemblyInfo.cs

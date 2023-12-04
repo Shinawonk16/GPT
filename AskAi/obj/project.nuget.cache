@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUkBx1gBMhPv26ZClOqTKH8JEYimanswhb764DtAAWwbWuDrqDIU30EI7ZSrY8og6JFEqqVbouQ3ecqLoSKLDw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\USER\\Desktop\\Abdul-Wareez\\PersonalJournal\\GPT\\AskAi\\AskAi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\openai\\1.5.0\\openai.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
